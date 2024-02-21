@@ -1,1 +1,1 @@
-# Insights-from-50-881-games-of-Higher-or-Lower-
+Some interesting insights from a data set of more than 50,000 games of "higher or lower". Shows detailed visualisations as well as a strategy to beat the game.
